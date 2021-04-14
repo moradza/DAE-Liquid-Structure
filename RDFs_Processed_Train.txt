@@ -1,0 +1,2 @@
+C:\Users\amrdz\JupyterNotebooks\DAE-Liquid-Structure/data/RDF/CG-CG.1.17.dist.pkl
+C:\Users\amrdz\JupyterNotebooks\DAE-Liquid-Structure/data/RDF/CG-CG.2.17.dist.pkl
