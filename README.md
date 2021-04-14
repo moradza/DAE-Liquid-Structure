@@ -1,6 +1,8 @@
 # DAE-Liquid-Structure
 Denoising auto-encoder network for efficient sampling of liquid strcture
-![alt text](https://github.com/moradza/DAE-Liquid-Structure/tree/main/img/dae.png)
+
+
+![Imgur Image](https://github.com/moradza/DAE-Liquid-Structure/tree/main/img/dae.png)
 
 
 
